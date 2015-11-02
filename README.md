@@ -1,1 +1,1 @@
-# emf-practice
+# Eclipse Modeling Framework Practice Examples
